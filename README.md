@@ -30,7 +30,7 @@
 ### Agosto
 | Día  | Evento | Contenido                  | Información adicional |
 |:---- |:------ |:-------------------------- |:--------------------- |
-|Jueves 04 | [AC01]() | Primer día de clases |                       |
+|Jueves 04 | [AC00]() | Primer día de clases |                       |
 
 ### Septiembre
 | Día  | Evento | Contenido                  | Información adicional |
