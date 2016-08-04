@@ -66,7 +66,7 @@
 
 | Nombre                | Sección   | Github        |  Email         |
 |:--------------------- |:--------: |:------------- | :------------- |
-| Cristian Ruz          | 1         | [@cruz](https://github.com/cruz)              | cristian.ruz@gmail.com |
+| Cristian Ruz          | 1         | [@cruz](https://github.com/cruz)              | cruz@uc.cl |
 | Christian Pieringer   | 2         | [@cpieringer](https://github.com/cpieringer)  | cppierin@uc.cl |
 
 
