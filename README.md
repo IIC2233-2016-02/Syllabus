@@ -31,6 +31,7 @@
 | Día  | Evento | Contenido                  | Información adicional |
 |:---- |:------ |:-------------------------- |:--------------------- |
 |Jueves 04 | [AC00]() | Primer día de clases |                       |
+|Lunes 08 | [Ayudantía 1]() | Como pasar el curso |                       |
 
 ### Septiembre
 | Día  | Evento | Contenido                  | Información adicional |
