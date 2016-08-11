@@ -69,16 +69,15 @@
 
 | Nombre                | Sección   | Github        |  Email         |
 |:--------------------- |:--------: |:------------- | :------------- |
-| Cristian Ruz          | 1         | [@cruz](https://github.com/cruz)              | cruz@uc.cl |
-| Christian Pieringer   | 2         | [@cpieringer](https://github.com/cpieringer)  | cppierin@uc.cl |
-
+| Cristian Ruz          | 1         | [@cruz](https://github.com/cruz)              | [cruz@uc.cl](mailto:) |
+| Christian Pieringer   | 2         | [@cpieringer](https://github.com/cpieringer)  | [cppierin@uc.cl](mailto:) |
+| Ivania Donoso         | 3         | [@indonoso](https://github.com/indonoso)      | [indonoso@uc.cl](mailto:) |
 
 ### Ayudantes Jefes
 
 | Nombre                | Área          | Github        | Email         |
 |:--------------------- |:------------- |:------------- |:------------- |
 | Bastián Mavrakis      | Coordinación  | [@bamavrakis](https://github.com/bamavrakis)  | [bamavrakis@uc.cl](mailto:) |
-| Ivania Donoso         | Docencia      | [@indonoso](https://github.com/indonoso)      | [indonoso@uc.cl](mailto:) |
 | Antonio Ossa          | Docencia      | [@aaossa](https://github.com/aaossa)          | [aaossa@uc.cl](mailto:) |
 | Matías Jünemann       | Tareas        | [@mjjunemann](https://github.com/mjjunemann)  | [mjjunemann@uc.cl](mailto:) |
 | Florencia Barrios     | Tareas        | [@flobarrios](https://github.com/flobarrios)  | [fbarrios1@uc.cl](mailto:) |
@@ -114,7 +113,7 @@
 | Andrés Mardones       | Tareas        | [@agmardones](https://github.com/agmardones)              | agmardones@uc.cl |
 
 
-## Descripcion del curso
+## Descripción del curso
 
 Este curso enseña técnicas para diseñar, implementar, ejecutar y evaluar herramientas de software que
 resuelven problemas algorítmicos a partir de especificaciones detalladas. En particular, el curso enseña
@@ -193,7 +192,7 @@ actualización y mantenimiento. Incluyendo el uso interfaces gráficas totalment
     * Regex
 
 
-## Evaluacion
+## Evaluación
 
 1. Las evaluaciones serán efectuadas por medio de actividades prácticas en clases, 
 controles (de materia y/o lecturas adicionales), tareas, 
