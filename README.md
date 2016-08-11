@@ -32,6 +32,8 @@
 |:---- |:------ |:-------------------------- |:--------------------- |
 |Jueves 04 | [AC00]() | Primer día de clases |                       |
 |Lunes 08 | [Ayudantía 1]() | Como pasar el curso |                       |
+|Jueves 11 | [AC01]() | OOP + properties |                       |
+|Lunes 08 | - | Feriado :D |                       |
 
 ### Septiembre
 | Día  | Evento | Contenido                  | Información adicional |
