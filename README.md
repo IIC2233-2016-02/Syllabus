@@ -28,32 +28,32 @@
 **Todas las actividades (AC) son evaluadas.** La ausencia a clases implica un 1.0 en las evaluaciones de ese día.
 
 ### Agosto
-| Día  | Evento | Contenido                  | Información adicional |
-|:---- |:------ |:-------------------------- |:--------------------- |
-|Jueves 04 | [AC00]() | Primer día de clases |                       |
-|Lunes 08 | [Ayudantía 1]() | Cómo pasar el curso |                       |
-|Jueves 11 | [AC01]() | OOP + properties |                       |
-|Lunes 15 | - | Feriado :tada: |                       |
+| Día       | Evento            | Contenido             | Información adicional |
+| :----     | :------           | :-------------------- | :-------------------- |
+| Jueves 04 | [AC00]()          | Primer día de clases  |                       |
+| Lunes 08  | [Ayudantía 1]()   | Cómo pasar el curso   |                       |
+| Jueves 11 | [AC01]()          | OOP + properties      |                       |
+| Lunes 15  | -                 | Feriado :tada:        |                       |
 
 ### Septiembre
-| Día  | Evento | Contenido                  | Información adicional |
-|:---- |:------ |:-------------------------- |:--------------------- |
+| Día       | Evento            | Contenido             | Información adicional |
+| :----     | :------           | :-------------------- | :-------------------- |
 | | []()| | |
 
 ### Octubre
-| Día  | Evento | Contenido                  | Información adicional |
-|:---- |:------ |:-------------------------- |:--------------------- |
-| | []()| | |
+| Día       | Evento            | Contenido             | Información adicional |
+| :----     | :------           | :-------------------- | :-------------------- |
+| Lunes 17  | [Midterm Test]()  | Por anunciar          | Salas: Por anunciar   |
 
 ### Noviembre
-| Día  | Evento | Contenido                  | Información adicional |
-|:---- |:------ |:-------------------------- |:--------------------- |
+| Día       | Evento            | Contenido             | Información adicional |
+| :----     | :------           | :-------------------- | :-------------------- |
 | | []()| | |
 
 ### Diciembre
-| Día  | Evento | Contenido                  | Información adicional |
-|:---- |:------ |:-------------------------- |:--------------------- |
-| | []()| | |
+| Día       | Evento            | Contenido             | Información adicional |
+| :----     | :------           | :-------------------- | :-------------------- |
+| Viernes 2 | [Final Exam]()    | Por anunciar          | Salas: Por anunciar   |
 
 # Notas
 
@@ -103,6 +103,8 @@
 | Joaquín Tagle         | Docencia      | [@jtagle2](https://github.com/jtagle2)                    | jtagle2@uc.cl |
 | Felipe Haase          | Docencia      | [@felipehv](https://github.com/felipehv)                  | fahaase@uc.cl |
 | Juan Cortés           | Docencia      | [@jicortes2](https://github.com/jicortes2)                | jicortes2@uc.cl |
+| Nicolás Falconi       | Docencia      | [@nigfasa](https://github.com/nigfasa)                    | nifalconi@uc.cl |
+| Matías Andrade        | Docencia      | [@mandrade2](https://github.com/mandrade2)                | mandrade2@uc.cl |
 | Hernán Valdivieso     | Tareas        | [@Hernan4444](https://github.com/Hernan4444)              | hfvaldivieso@uc.cl |
 | Isidora Palma         | Tareas        | [@isipalma](https://github.com/isipalma)                  | impalma@uc.cl |
 | Matias Eynaudi        | Tareas        | [@Mieynaudi](https://github.com/Mieynaudi)                | mieynaudi@uc.cl |
@@ -111,6 +113,7 @@
 | Cristian Cortés       | Tareas        | [@criscv94](https://github.com/criscv94)                  | cacortes1@uc.cl |
 | Fernando Pieressa     | Tareas        | [@FernandoPieressa](https://github.com/FernandoPieressa)  | fapieressa@uc.cl |
 | Andrés Mardones       | Tareas        | [@agmardones](https://github.com/agmardones)              | agmardones@uc.cl |
+| Stephanie Chau        | Tareas        | [@stephichau](https://github.com/stephichau)              | schau@uc.cl |
 
 
 ## Descripción del curso
