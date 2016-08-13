@@ -18,10 +18,11 @@ def dictToJson(path, data):
 
 if __name__ == '__main__':
 
+    #ejemplo
+
     data = jsonToDict("programonMoves.json")
 
     for elem in data:
-        elem.update({"pp": 15})
         elem["name"] = elem["name"].lower()
 
     dictToJson("programonMoves2.json", data)
