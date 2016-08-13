@@ -1,0 +1,50 @@
+[
+  {
+    "starting_point": "Pallet Town",
+    "destination": "Viridian City",
+    "route": 1,
+    "levels": [1,7]
+  },
+  {
+    "starting_point": "Viridian City",
+    "destination": "Pewter City",
+    "route": 2,
+    "levels": [5,14]
+  },
+  {
+    "starting_point": "Pewter City",
+    "destination": "Cerulean City",
+    "route": 3,
+    "levels": [9,21]
+  },
+  {
+   "starting_point": "Cerulean City",
+    "destination": "Saffron City",
+    "route": 4,
+    "levels": [18,28]
+  },
+  {
+    "starting_point": "Saffron City",
+    "destination": "Vermilion City",
+    "route": 5,
+    "levels": [20,35]
+  },
+  {
+    "starting_point": "Vermilion City",
+    "destination": "Celadon City",
+    "route": 6,
+    "levels": [26,42]
+  },
+  {
+    "starting_point": "Celadon City",
+    "destination": "Fuchsia City",
+    "route": 7,
+    "levels": [36,49]
+  },
+  {
+    "starting_point": "Fuchsia City",
+    "destination": "Cinnabar Island",
+    "route": 8,
+    "levels": [40,56]
+  }
+]
