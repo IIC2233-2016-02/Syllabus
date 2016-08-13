@@ -1,0 +1,24 @@
+{
+    "physical_moves": [
+        "normal",
+        "fighting",
+        "flying",
+        "ground",
+        "rock",
+        "bug",
+        "ghost",
+        "poison",
+        "steel"
+    ],
+
+    "special_moves": [
+        "water",
+        "grass",
+        "fire",
+        "ice",
+        "electric",
+        "psychic",
+        "dragon",
+        "dark"
+    ]
+}

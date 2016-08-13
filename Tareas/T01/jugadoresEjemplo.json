@@ -1,0 +1,47 @@
+{
+    "id_jugador": {
+        "nombre": "Florencia",
+        "dinero": 120,
+        "medallas": [],
+        "progradex": [1, 2, 3, 50],
+        "equipo":[50],
+        "programones": [{
+            "unique_id":50,
+            "id": 1,
+            "iv": 10,
+            "nivel": 15
+        }],
+        "password": "tucontraseña",
+        "batallas": [{
+            "victoria": "False",
+            "tipo": "entrenador",
+            "name": "nombre_entrenador",
+            "programon": [{
+                "id": 3,
+                "iv": 15,
+                "nivel": 10
+            }],
+            "dinero": -100,
+            "equipo":[{
+                "unique_id":50,
+                "level":5,
+                "peleo":"True"
+              }]
+        }, {
+            "victoria": "True",
+            "tipo": "salvaje",
+            "programon": [{
+                "id": 3,
+                "iv": 15,
+                "nivel": 10
+            }],
+            "dinero": 100,
+            "equipo":[{
+                "unique_id":50,
+                "level":5,
+                "peleo":"True"
+              }]
+        }]
+    }
+
+}
