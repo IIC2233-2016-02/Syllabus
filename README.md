@@ -43,7 +43,7 @@
 ### Octubre
 | Día              | Evento            | Contenido             | Información adicional |
 | :----            | :------           | :-------------------- | :-------------------- |
-| Lunes 17 6:30 PM | [Midterm Test]()  | Por anunciar          | Salas: Por anunciar   |
+| | []()| | |
 
 ### Noviembre
 | Día       | Evento            | Contenido             | Información adicional |
@@ -198,29 +198,24 @@ actualización y mantenimiento. Incluyendo el uso interfaces gráficas totalment
 ## Evaluación
 
 1. Las evaluaciones serán efectuadas por medio de actividades prácticas en clases, 
-controles (de materia y/o lecturas adicionales), tareas, 
-un midterm test y un examen final. Se calculará **la nota del curso NC** como:
+controles (de materia y/o lecturas adicionales), tareas y un examen final. Se calculará **la nota del curso NC** como:
 
-    **NC = 0.15 * MT  + 0.2 * FE + 0.3 * T + 0.25 * AC + 0.1 * C**
+    **NC = 0.2 * FE + 0.4 * T + 0.25 * AC + 0.15 * C**
 
-    Donde **MT** es la nota obtenida en el midterm test, **FE** es la nota del examen final, **T** es el promedio de las tareas, **AC** es el promedio de las actividades en clases sin incluir la peor de ellas, y **C** es el promedio de los controles.
+    Donde **FE** es la nota del examen final, **T** es el promedio de las tareas, **AC** es el promedio de las actividades en clases sin incluir la peor de ellas, y **C** es el promedio de los controles.
 
 1.  Adicionalmente, para aprobar el curso el alumno debe cumplir con:
-    - El promedio ponderado entre **MT** y **FE** debe ser mayor o igual a 3.500
+    - **FE** debe ser mayor o igual a 3.500
     - **AC** debe ser mayor o igual a 3.700
     - **T** debe ser mayor o igual a 3.950
 
-1. Si el alumno cumple con todas las condiciones mencionadas, la **nota final del curso (NF)** corresponde 
-a **NC**. En caso contrario, **NF** es la nota mínimo entre los items no cumplidos.
+1. Si el alumno cumple con todas las condiciones mencionadas, la **nota final del curso (NF)** corresponde a **NC**. En caso contrario, **NF** es la nota mínimo entre los items no cumplidos.
 
-1. La inasistencia a alguna de las actividades se evalúa con nota 1.0, pero para el cálculo final de este ítem 
-se eliminará la nota más baja 
+1. La inasistencia a alguna de las actividades en clases se evalúa con nota 1.0, pero para el cálculo final de este ítem se eliminará la nota más baja 
 
-1. Solo se aproximará la nota final **NF**. Todo el resto de las notas serán usadas con dos decimales.
+1. Solo se aproximará la nota final **NF**. Todo el resto de las notas serán usadas con tres decimales.
 
-1. Durante el semestre NO se borrará ninguna otra evaluación, lo que incluye T, MD, EX, C.
-
-1. La inasistencia al Midterm será evaluada con nota 1.0, y no habrá pruebas recuperativas para reemplazarla.
+1. Durante el semestre NO se borrará ninguna otra evaluación, lo que incluye T, AC, FE, C.
 
 1. El Examen final es obligatorio, no hay eximición. **La inasistencia al Examen es reprobatoria**.
 
