@@ -41,9 +41,9 @@
 | | []()| | |
 
 ### Octubre
-| Día       | Evento            | Contenido             | Información adicional |
-| :----     | :------           | :-------------------- | :-------------------- |
-| Lunes 17  | [Midterm Test]()  | Por anunciar          | Salas: Por anunciar   |
+| Día              | Evento            | Contenido             | Información adicional |
+| :----            | :------           | :-------------------- | :-------------------- |
+| Lunes 17 6:30 PM | [Midterm Test]()  | Por anunciar          | Salas: Por anunciar   |
 
 ### Noviembre
 | Día       | Evento            | Contenido             | Información adicional |
