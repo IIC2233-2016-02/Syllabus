@@ -51,9 +51,9 @@
 | | []()| | |
 
 ### Diciembre
-| Día       | Evento            | Contenido             | Información adicional |
-| :----     | :------           | :-------------------- | :-------------------- |
-| Viernes 2 | [Final Exam]()    | Por anunciar          | Salas: Por anunciar   |
+| Día                | Evento            | Contenido             | Información adicional |
+| :----              | :------           | :-------------------- | :-------------------- |
+| Viernes 2 9:00 AM  | [Final Exam]()    | Por anunciar          | Salas: Por anunciar   |
 
 # Notas
 
