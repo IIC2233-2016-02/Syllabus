@@ -663,5 +663,12 @@
       "type": "normal",
       "power": 80,
       "name": "slam"
+   },
+   {
+     "pp":15,
+     "accuracy": 1,
+     "type": "poison",
+     "power": 15,
+     "name": "poison sting"
    }
 ]
