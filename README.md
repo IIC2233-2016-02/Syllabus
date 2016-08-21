@@ -35,6 +35,8 @@
 | Jueves 11 | [AC01]()          | OOP + properties      |                       |
 | Lunes 15  | -                 | Feriado :tada:        |                       |
 | Jueves 18 | [AC02]()          | Herencia - Polimorfismo - Abstract       |                       |
+| Lunes 22  | [Ayudantía 2]()                 | Estructuras de Datos 101        |                       |
+| Jueves 25 | [AC03]()          | Estructuras de Datos: tuplas, listas, sets, diccionarios |                       |
 
 ### Septiembre
 | Día       | Evento            | Contenido             | Información adicional |
