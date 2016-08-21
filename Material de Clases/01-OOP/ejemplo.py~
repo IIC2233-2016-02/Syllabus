@@ -1,0 +1,15 @@
+class A:
+    atributo_clase = 1
+    def __init__(self, parametro):
+        self.atributo_objeto = parametro
+	    
+    def metodo_objeto(self, parametro):
+        self.atributo_objeto += parametro
+        print(self.atributo_objeto)
+
+objeto_1 = A(4)
+objeto_1.metodo_objeto(3)
+objeto_1.atributo_clase += 3
+objeto_2 = A(5)
+objeto_2.metodo_objeto(3)
+print(objeto_2.atributo_clase)
