@@ -42,7 +42,7 @@ La asistencia aparecerÃ¡ en [Asistencia.tsv](Asistencia.tsv). **Recuerda revis
 | **B23 09-E/F** | Sgwa | Sebastian Grez | vacodoceo | Verner Codoceo |
 | **B23 09-G/H** | gebalassa | Gabriel Balassa | srvasquez | Sebastian Vasquez |
 | **B23 10-A/B** | fivargas | Felipe Vargas | roy350 | Rodrigo Cortes |
-| **B24 01-A** | vmcasas | Victor Casas |  |   |
+| **B24 01-A** | vmcasas | Victor Casas | tcgarrido | Tanya Garrido  |
 | **B24 01-B/C** | Nicolaides21 | Javiera Gonzalez | SebaCardenas | Sebastian Cardenas |
 | **B24 01-D/E** | Seba-F | Sebastian Felbol | njvillavicencio | Nicolas Villavicencio |
 | **B24 01-F/G** | rrfoster | Roberto Foster | pmiquelv | Pedro Miquel |
