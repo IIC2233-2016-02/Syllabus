@@ -42,7 +42,6 @@ La asistencia aparecerÃ¡ en [Asistencia.tsv](Asistencia.tsv). **Recuerda revis
 | **B23 09-E/F** | Sgwa | Sebastian Grez | vacodoceo | Verner Codoceo |
 | **B23 09-G/H** | gebalassa | Gabriel Balassa | srvasquez | Sebastian Vasquez |
 | **B23 10-A/B** | fivargas | Felipe Vargas | roy350 | Rodrigo Cortes |
-| **B24 01-A** | vmcasas | Victor Casas | tcgarrido | Tanya Garrido  |
 | **B24 01-B/C** | Nicolaides21 | Javiera Gonzalez | SebaCardenas | Sebastian Cardenas |
 | **B24 01-D/E** | Seba-F | Sebastian Felbol | njvillavicencio | Nicolas Villavicencio |
 | **B24 01-F/G** | rrfoster | Roberto Foster | pmiquelv | Pedro Miquel |
@@ -75,6 +74,7 @@ La asistencia aparecerÃ¡ en [Asistencia.tsv](Asistencia.tsv). **Recuerda revis
 | **B24 08-A/B** | nissimergas | Nissim Ergas | jisilvamc | Juan Silva |
 | **B24 08-C/D** | CheloRiveros | Marcelo Riveros | mvial | Manuel Vial |
 | **B24 08-E/F** | fleon23 | Felipe Leon | vigazali | Vicente Gazali |
+| **B24 08-G/H** | vmcasas | Victor Casas | tcgarrido | Tanya Garrido  |
 | **Javier Pinto 01-A/B** | juvaldes | Jose Valdes | Pyralspite | Natalia Barra |
 | **Javier Pinto 01-C/D** | TomasFuenzalida | Jose Fuenzalida | vjbreton | Vicente Breton |
 | **Javier Pinto 01-E/F** | lefischer | Laura Fischer | jbsaeza | Joaquin Saez |
