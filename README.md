@@ -37,6 +37,7 @@
 | Jueves 18 | [AC02]()          | Herencia - Polimorfismo - Abstract       |                       |
 | Lunes 22  | [Ayudantía 2]()                 | Estructuras de Datos 101        |                       |
 | Jueves 25 | [AC03]()          | Estructuras de Datos: tuplas, listas, sets, diccionarios |                       |
+| Lunes 29  | [Ayudantía 3]()	| Estructuras de Datos | |
 
 ### Septiembre
 | Día       | Evento            | Contenido             | Información adicional |
