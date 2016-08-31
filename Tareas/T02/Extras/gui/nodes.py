@@ -17,7 +17,7 @@ class NodesWidget(QWidget):
         self.max_width = 0
 
     def add_line(self, cord_1, cord_2, color):
-        key = tuple(sorted([cord_1, cord_2]))
+        key = tuple(sorted([tuple(cord_1), tuple(cord_2)]))
         x = min(cord_1[0], cord_2[0])
         y = min(cord_1[1], cord_2[1])
         if key in self.lines:
@@ -41,7 +41,7 @@ class NodesWidget(QWidget):
             self.lines[key] = line
 
     def remove_line(self, cord_1, cord_2):
-        key = tuple(sorted([cord_1, cord_2]))
+        key = tuple(sorted([tuple(cord_1), tuple(cord_2)]))
         if key in self.lines:
             label = self.lines[key]
             label.deleteLater()
@@ -55,6 +55,7 @@ class NodesWidget(QWidget):
             return
         label = Node(x, y, number, color, self)
         label.move(20 + x*30, 20+y*30)
+        label.show()
         self.__points[(x, y)] = label
         if 45 + y*30 > self.max_height:
             self.setMinimumHeight(45 + y * 30)
