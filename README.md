@@ -42,7 +42,8 @@
 ### Septiembre
 | Día       | Evento            | Contenido             | Información adicional |
 | :----     | :------           | :-------------------- | :-------------------- |
-| | []()| | |
+| Jueves 1 	| [AC04]() 			| Estructuras de Datos 	| 						|
+| Lunes 5 	| [Ayudantía 4]()	| Programación Funcional| 						|
 
 ### Octubre
 | Día              | Evento            | Contenido             | Información adicional |
