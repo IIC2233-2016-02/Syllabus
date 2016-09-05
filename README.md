@@ -63,7 +63,9 @@
 
 # Notas
 
+Todas las notas serán publicadas en [este documento de Google Sheets](https://docs.google.com/spreadsheets/d/1ZHHEkQtoPBi4zOv1uSD9Zz9X0-BEiTH0AjxOuoSSx9g).
 
+Para acceder deben haber iniciado sesión con su email UC.
 
 
 
