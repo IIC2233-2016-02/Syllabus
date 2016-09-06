@@ -29,7 +29,7 @@ class NodesWidget(QWidget):
             else:
                 pixmap = QPixmap(get_asset_path("hor_line_black"))
             c1 = (30 + cord_1[0]*30, 30 + cord_1[1]*30)
-            c2 = (30 + cord_2[0]*30, 30 + cord_1[1]*30)
+            c2 = (30 + cord_2[0]*30, 30 + cord_2[1]*30)
             length = ((c1[0] - c2[0])**2 + (c1[1] - c2[1])**2)**(1/2)
             angle = math.degrees(math.atan2(key[1][1] - key[0][1], key[1][0] - key[0][0]))
             pixmap = pixmap.scaled(length, 5)
