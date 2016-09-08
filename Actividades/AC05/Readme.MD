@@ -4,7 +4,7 @@ La asistencia aparecerÃ¡ en [Asistencia.tsv](Asistencia.tsv). **Recuerda revis
 
 | Puesto | User 1 | Nombre 1 | User 2 | Nombre 2 |
 |:-------|:-------|:---------|:-------|:---------|
-| **B23 01-A** | tibrahm | Thomas Brahm |  |   |
+| **B23 01-A** | tibrahm | Thomas Brahm | tnmarin | Tomas Marin |
 | **B23 01-B/C** | bvantellic | Bruno Vantelli | ireyes96 | Jose Reyes |
 | **B23 01-D/E** | jmcomber | Jose Comber | rolfskog | Rolf Skog |
 | **B23 01-F/G** | Fhgajardo | Felipe Gajardo | fabraghetto | Franco Braghetto |
@@ -34,7 +34,6 @@ La asistencia aparecerÃ¡ en [Asistencia.tsv](Asistencia.tsv). **Recuerda revis
 | **B23 07-G/H** | Sgwa | Sebastian Grez | Zekayrus | Diego Alvarez |
 | **B23 07-I/J** | fivargas | Felipe Vargas | fernddevidts | Fernanda Delgado |
 | **B23 08-A/B** | sebacruzd | Sebastian Cruz | ofvera | Octavio Vera |
-| **B23 08-C/D** | sfga | Simon Garces | tnmarin | Tomas Marin |
 | **B23 08-G/H** | roy350 | Rodrigo Cortes | jabugmann | Joaquin Bugmann |
 | **B23 08-I/J** | gebalassa | Gabriel Balassa | Mahund | Michael Hund |
 | **B23 09-A/B** | vureyes | Vicente Reyes | glbello | Gonzalo Bello |
