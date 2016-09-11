@@ -45,6 +45,8 @@
 | Jueves 1 	| [AC04]() 			| Estructuras de Datos 	| 						|
 | Lunes 5 	| [Ayudantía 4]()	| Programación Funcional| 						|
 | Jueves 8  | [AC05]()          | Programacion Funcional|    Decoradores NO     |
+| Lunes 12 	| [Ayudantía 5]()	| Decoradores | 						|
+| Jueves 15 | [AC06]()          | Decoradores |         |
 
 ### Octubre
 | Día              | Evento            | Contenido             | Información adicional |
