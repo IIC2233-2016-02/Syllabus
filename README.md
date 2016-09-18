@@ -47,16 +47,32 @@
 | Jueves 8  | [AC05]()          | Programacion Funcional|    Decoradores NO     |
 | Lunes 12 	| [Ayudantía 5]()	| Decoradores | 						|
 | Jueves 15 | [AC06]()          | Decoradores |         |
+| Lunes 19 | -          | Feriado :tada: |         |
+| Jueves 22 | [AC07]()          | Metaclases |         |
+| Lunes 26 | [Ayudantia 6]()          | Excepciones + Testing |         |
+| Jueves 29 | [AC08]()          | Excepciones + Testing |         |
 
 ### Octubre
 | Día              | Evento            | Contenido             | Información adicional |
 | :----            | :------           | :-------------------- | :-------------------- |
-| | []()| | |
+| Lunes 3 	| [Ayudantía 7]()	| Simulación DES | 						|
+| Jueves 6 | [AC09]()          | Simulación DES |         |
+| Lunes 10 | -          | Feriado :tada: |         |
+| Jueves 13 | [AC10]()          | Threading |         |
+| Lunes 17 	| [Ayudantía 8]()	| Interfaces gráficas | 						|
+| Jueves 20 | [AC11]()          | Interfaces gráficas |         |
+| Lunes 24 	| [Ayudantía 9]()	| I/O Archivos | 						|
+| Jueves 27 | [AC12]()          | I/O Archivos |         |
+| Lunes 31 | -          | Feriado :tada: |         |
 
 ### Noviembre
 | Día       | Evento            | Contenido             | Información adicional |
 | :----     | :------           | :-------------------- | :-------------------- |
-| | []()| | |
+| Jueves 3 | [AC13]()          | I/O Serialización |         |
+| Lunes 7 	| [Ayudantía 10]()	| Networking | 						|
+| Jueves 10 | [AC14]()          | Networking |         |
+| Lunes 14 | [Ayudantía 11]()| Webservices + Regex |         |
+| Jueves 17 | [AC15]()          | Webservices + Regex |         |
 
 ### Diciembre
 | Día                | Evento            | Contenido             | Información adicional |
@@ -145,9 +161,9 @@ externa y comentarios en el código.
   pudiendo extender este conocimiento a distintos lenguajes.
 1. Fomentar el uso de:
     - herramientas de programación estándares para el desarrollo de software como entornos de desarrollo,
- debuggers y sistemas de control de versiones;
+ debuggers y sistemas de control de versiones;
     - técnicas de programación como bibliotecas de programación orientada a objetos
- y pruebas unitarias;
+ y pruebas unitarias;
     - y entornos de desarrollo de software para editar, compilar, y depurar programas.
 1. Generar software desde cero, con código de alto nivel, de fácil re­utilización, 
 actualización y mantenimiento. Incluyendo el uso interfaces gráficas totalmente funcionales.
