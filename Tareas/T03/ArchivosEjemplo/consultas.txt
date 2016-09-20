@@ -1,0 +1,16 @@
+status1.txt, 8
+Integrate[g[x], {x,a,d}];
+Integrate[f[t[x]], {x}];
+Derivate[p[x,y,z], z];
+MCM[int, 2,5];
+Integrate[Integrate[Integrate[p[x,y,z],{x,a,d}],{y,a,1}],{z,a,d}];
+f[5];
+Integrate[h[x] * g[x],{x}];
+status2.txt, 4
+Solve[f[x] == 0, {x}];
+Solve[f[x] == 0 && x>0,{x}];
+Solve[(x^3)+x == 0,{x},Reals];
+Solve[(x^3)+x == 0,{x},Im];
+status3.txt, 2
+MatrixMultiply[M,N];
+MatrixMultiply[N,M];

@@ -1,0 +1,16 @@
+----resultados_status1.txt----
+2
+(7*x)/2 + (1/4)*Sin[2*x]
+y*Cos[z]
+False
+(Pi/2)*(2 + Pi)
+28
+Cos[Cos[x]]
+----resultados_status2.txt----
+x = -2 , x = 2
+x = 2
+x = 0
+x = i, x = -i
+----resultados_status3.txt----
+[[58,64],[139,154]]
+Error
