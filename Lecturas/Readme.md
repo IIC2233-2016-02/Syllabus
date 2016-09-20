@@ -15,3 +15,4 @@
 ## Lectura 2: Tipos de datos
 - [Static vs. dynamic typing of programming languages](https://pythonconquerstheuniverse.wordpress.com/2009/10/03/static-vs-dynamic-typing-of-programming-languages/)
 - [Python Objects: mutable vs immutable](https://codehabitude.com/2013/12/24/python-objects-mutable-vs-immutable/)
+- [Issue del semestre pasado](https://github.com/IIC2233-2016-1/syllabus/issues/481): para entender más sobre tipos inmutables y modelación
