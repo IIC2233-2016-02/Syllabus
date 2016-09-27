@@ -127,7 +127,6 @@ Para acceder deben haber iniciado sesión con su email UC.
 |:--------------------- |:------------- |:------------- |:------------- |
 | Anders Skog           | Docencia      | [@andersskog](https://github.com/andersskog)              | aoskog@uc.cl |
 | Joaquín Tagle         | Docencia      | [@jtagle2](https://github.com/jtagle2)                    | jtagle2@uc.cl |
-| Felipe Haase          | Docencia      | [@felipehv](https://github.com/felipehv)                  | fahaase@uc.cl |
 | Juan Cortés           | Docencia      | [@jicortes2](https://github.com/jicortes2)                | jicortes2@uc.cl |
 | Nicolás Falconi       | Docencia      | [@nigfasa](https://github.com/nigfasa)                    | nifalconi@uc.cl |
 | Matías Andrade        | Docencia      | [@mandrade2](https://github.com/mandrade2)                | mandrade2@uc.cl |
