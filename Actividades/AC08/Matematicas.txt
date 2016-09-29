@@ -1,0 +1,6 @@
+1,255,128,0,a
+2,abc,cba,bc,b
+3,2,4,6,c
+4,I,II y III,II,c
+5,isoceles,equilatero,escaleno,b
+6,media,mediana,moda,c
