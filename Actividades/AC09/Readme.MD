@@ -65,6 +65,7 @@ La asistencia aparecerÃ¡ en [Asistencia.tsv](Asistencia.tsv). **Recuerda revis
 | **Javier Pinto 01-C/D** | iqacevedo | Ignacio Acevedo | rmsolari | Renzo Solari |
 | **Javier Pinto 01-E/F** | Mnfriedl | Maximiliano Friedl | martinalvarado4 | Martin Alvarado |
 | **Javier Pinto 02-A/B** | Diiru | Diego Iruretagoyena | kcsss | Matias Caces |
+| **Javier Pinto 02-C/D** | TomasFuenzalida | Jose Fuenzalida | Fhmartinez | Francis Martinez |
 | **Javier Pinto 02-E/F** | fr0k | Francisco Arenas | regarin | Rafael Garin |
 | **Javier Pinto 03-A/B** | FranciscoLarach | Francisco Larach | gabrielpinkman | Gabriel Vargas |
 | **Javier Pinto 03-E/F** | Tyrell-Wellick | Luis Ampuero | narierao | Nicolas Riera |
@@ -74,6 +75,5 @@ La asistencia aparecerÃ¡ en [Asistencia.tsv](Asistencia.tsv). **Recuerda revis
 | **Javier Pinto 05-E/F** | mcorreaiz | Matias Correa | chapito96 | Santiago Torres |
 | **Javier Pinto 06-A/B** | jjnestler | Juan Nestler | elliot-anderson | Omar Bravo |
 | **Javier Pinto 06-E/F** | fcgfaura | Fernanda Garcia | Sgvonbergen | Sebasthian Von Bergen |
-| **Default** | TomasFuenzalida | Jose Fuenzalida | Fhmartinez | Francis Martinez |
 | **Javier Pinto 06-A/B** | lukasquense | Lukas Quense | fringlesinthestreet | Benjamin Carcamo |
 | **Javier Pinto 06-C/D** | asimonv | Andre Simon | jatrijori | Javiera Jorquera |
