@@ -1,5 +1,3 @@
-clearAllF
-clearAllV
 f[x_] = (x^2) +3; 
 g[x_] = Sin[x]; 
 t[x_] = Cos[x]; 
