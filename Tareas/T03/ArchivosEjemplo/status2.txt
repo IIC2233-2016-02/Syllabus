@@ -1,2 +1,1 @@
-clearAllF
 f[x_] = (x^2) - 4;
