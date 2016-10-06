@@ -1,23 +1,21 @@
 ----resultados_status1.txt----
 2
-(7*x)/2 + (1/4)*Sin[2*x]
 y*Cos[z]
 False
-(Pi/2)*(2 + Pi)
+Pi^2
 28
 ----resultados_status2.txt----
 x = -2 , x = 2
 x = 2
-x = 0
-x = i, x = -i
 ----resultados_status3.txt----
 MatrixMultiply: Calcula el producto de dos matrices; Parámetros: A,B
-[[58,64],[139,154]]
+[[58,64],[139,154],[220,244]]
 Error
 [[1,4,7],[2,5,8],[3,6,9]]
-1/50 * [[-11,5,6],[-103,-10,63],[109,5,-64]]
+[[-11/50,1/10,3/25],[-103/50,-1/5,63/50],[109/50,1/10,-32/25]]
+Error
 ----resultados_status4.txt----
-f1[x], dfx[x], f2[x,y]
+f1[x], dfx[x], f2[x,y], equis, de 
 True
 False
 5

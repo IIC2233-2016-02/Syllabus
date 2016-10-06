@@ -1,7 +1,9 @@
-f[x_] = x^2 +3; 
+clearAllF
+clearAllV
+f[x_] = (x^2) +3; 
 g[x_] = Sin[x]; 
 t[x_] = Cos[x]; 
 h[x_] = g[f[x]]; 
 a = 0; b = 2; c = 3; d = Pi;
-p[x_,y_,z_] = (Sin[d*x])^b + y*Sin[z];
+p[x_,y_,z_] = (Sin[x])^b + y*Sin[z];
 int = Integrate[f[x],{x,a,c}];
