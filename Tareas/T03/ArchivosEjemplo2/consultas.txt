@@ -1,9 +1,9 @@
 status1.txt, 3
-Integrate[Integrate[f[x]*g[x,y], {x,a,b}], {y,a,b}];
+Integrate[Integrate[f[x]*m[x,y], {x,a,b}], {y,a,b}];
 Solve[pol[x] == 25 && x>0, {x}];
 d[2] - (2)^2;
 status2.txt, 6
-m1xm3;
+m1xm2;
 Det[m1];
 Trans[m1xm2];
 Inv[m3];
