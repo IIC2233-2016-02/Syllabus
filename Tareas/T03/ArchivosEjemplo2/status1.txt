@@ -1,0 +1,6 @@
+a = -2; b = 2; p = Pi; 
+f[x_] = (Sin[x])^2 * Cos[x];
+g[x_, y_] = (y^2)*x + y^3; 
+pol[x_] = 2*(x)^4 - 15*(x)^3 + 23*(x)^2 + 15*x;
+d[x_] = Derivate[g[x,y], x];
+

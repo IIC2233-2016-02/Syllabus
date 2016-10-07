@@ -1,0 +1,17 @@
+status1.txt, 3
+Integrate[Integrate[f[x]*g[x,y], {x,a,b}], {y,a,b}];
+Solve[pol[x] == 25 && x>0, {x}];
+d[2] - (2)^2;
+status2.txt, 4
+Det[m1];
+Trans[m1xm2];
+Inv[m3];
+Rank[m3];
+Dim[m1xm2];
+status3.txt, 1
+h[0];
+status4.txt, 3
+Plot[f[x],g[x],h[x],{x,-Pi,Pi}];
+RegionPlot[f[x],h[x],{x,-Pi/2,Pi/2}];
+Plot3D[i[x,y],{x,-5,5},{y,-5,5}];
+

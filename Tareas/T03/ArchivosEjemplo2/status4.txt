@@ -1,0 +1,4 @@
+f[x_] = Sin[x];
+g[x_] = Cos[x];
+h[x_] = f[x] + g[x];
+i[x_,y_] = Tan[x*y];

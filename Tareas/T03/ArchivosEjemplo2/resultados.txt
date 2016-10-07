@@ -1,0 +1,17 @@
+----resultados_status1.txt----
+256/9
+1,-1,5/3,5
+0
+----resultados_status2.txt----
+-588
+[[29,14,27,16,30],[39,32,30,35,58]]
+[[-1/2, 1/2, 1/2, 1/2], [1/2, 1/2, 1/2, -1/2], [1/2, 1/2, 5/2, 1/2], [1/2, -1/2, 1/2, 1/2]]
+4
+2,5
+----resultados_status3.txt----
+1
+----resultados_status4.txt----
+saved as plt1
+saved as regionplt1
+saved as plt3d1
+
