@@ -1,6 +1,6 @@
 ----resultados_status1.txt----
 256/9
-1,-1,5/3,5
+1,5/3,5
 0
 ----resultados_status2.txt----
 -588
