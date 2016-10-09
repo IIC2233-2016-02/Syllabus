@@ -8,9 +8,9 @@ from gui.building import Building, Temple
 class Sim:
 
     def __init__(self):
-        self.unit = Skull("warrior", (20, 30),300)
-        self.building = Building("barracks", (300, 300))
-        self.temple = Temple("pezoa", pos=(700, 500))
+        self.unit = Skull("warrior", (20, 30),hp=300, size=(100, 100))
+        self.building = Building("barracks", pos=(300, 300))
+        self.temple = Temple("pezoa", pos=(700, 500),size=(200, 150))
         self.building.in_construction = True
 
         self.gold = 0
