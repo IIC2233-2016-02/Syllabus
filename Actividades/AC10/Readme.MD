@@ -1,0 +1,79 @@
+## AC10
+
+La asistencia aparecerÃ¡ en [Asistencia.tsv](Asistencia.tsv). **Recuerda revisarla antes del tÃ©rmino de la clase**.
+
+| Puesto | User 1 | Nombre 1 | User 2 | Nombre 2 |
+|:-------|:-------|:---------|:-------|:---------|
+| **B23 01-A** | Zekayrus | Diego Alvarez |  |   |
+| **B23 01-B/C** | Deinis210 | Daniela Risso | abannura | Andres Bannura |
+| **B23 01-D/E** | jmcomber | Jose Comber | aiquinones | Alejandro Quiã‘Ones |
+| **B23 01-F/G** | pggodoy | Pablo Godoy | Micostabal | Martin Costabal |
+| **B23 01-H/I** | danyestay | Daniel Estay | Riarrieta | Rodrigo Arrieta |
+| **B23 01-J/K** | mlbisso | Mauro Bisso | TomasFuentes | Tomas Fuentes |
+| **B23 02-A/B** | Dalal15 | Dalal Chahuan | martinvidal | Martin Vidal |
+| **B23 02-C/D** | mraddatz | Martin Raddatz | Sgwa | Sebastian Grez |
+| **B23 02-G/H** | HenryBlairG | Henry Blair | fabraghetto | Franco Braghetto |
+| **B23 02-I/J** | glbello | Gonzalo Bello | pasilva11 | Patricia Silva |
+| **B23 03-A/B** | ireyes96 | Jose Reyes | npinochet | Nicolas Pinochet |
+| **B23 03-C/D** | gebalassa | Gabriel Balassa | sebacruzd | Sebastian Cruz |
+| **B23 03-G/H** | fivargas | Felipe Vargas | sguerra2 | Sebastian Guerra |
+| **B23 03-I/J** | rolfskog | Rolf Skog | bvfernandez | Bernardita Fernandez |
+| **B23 04-A/B** | dagalloso | Daniel Galloso | vureyes | Vicente Reyes |
+| **B23 04-C/D** | Tomizaky | Tomas Verdugo | vacodoceo | Verner Codoceo |
+| **B23 04-G/H** | swidemann | Steffan Widemann | difischer | Diego Fischer |
+| **B23 04-I/J** | fnmendez | Franco Mendez | lareyes2 | Lesly Reyes |
+| **B23 05-A/B** | Muiturriaga | Marcelo Iturriaga | sfga | Simon Garces |
+| **B23 05-C/D** | Mahund | Michael Hund | npcariman | Nawel Cariman |
+| **B23 05-G/H** | Fhgajardo | Felipe Gajardo | DiegoAndai | Diego Andai |
+| **B23 05-I/J** | srvasquez | Sebastian Vasquez | roy350 | Rodrigo Cortes |
+| **B23 06-A/B** | fipaniagua | Francisco Paniagua | tibrahm | Thomas Brahm |
+| **B23 06-C/D** | jabugmann | Joaquin Bugmann | FJavierOss | Francisco Ossandon |
+| **B23 06-G/H** | alainrochette | Alain Rochette | ofvera | Octavio Vera |
+| **B23 06-I/J** | cmgainza | Constanza Gainza | joseluishaddad | Jose Haddad |
+| **B23 07-A/B** | smargozzini | Sebastian Margozzini | nrfreudenberg | Nicolas Freudenberg |
+| **B23 07-C/D** | pinavarrete | Patricio Navarrete | Gonzalo-Perez | Gonzalo Perez |
+| **B23 07-G/H** | ndleyton | Nicolas Leyton | PaulinaAraya | Paulina Araya |
+| **B23 07-I/J** | fernddevidts | Fernanda Delgado | cameneses | Cesar Meneses |
+| **B24 01-A/B** | ttapia | Tomas Tapia | nissimergas | Nissim Ergas |
+| **B24 01-C/D** | fsvergara | Francisco Vergara | jtvigneaux | Jose Vigneaux |
+| **B24 01-E/F** | Marivera3 | Maximiliano Rivera | Afalegria | Antonio Alegria |
+| **B24 01-G/H** | ceci33 | Cecilia Fuentes | ceyzaguirre4 | Cristobal Eyzaguirre |
+| **B24 02-A/B** | fopasten | Felipe Pasten | rrfoster | Roberto Foster |
+| **B24 02-C/D** | jorgeriesco | Jorge Riesco | dfvasquez | Daniela Vasquez |
+| **B24 02-E/F** | IgnacioTobar | Ignacio Tobar | nicovsj | Nicolas Van Sint Jan |
+| **B24 02-G/H** | Seba-F | Sebastian Felbol | domingo-valdes | Domingo Valdes |
+| **B24 03-A/B** | cglevican | Constanza Levican | NoemiCC | Noemi Crosby |
+| **B24 03-C/D** | sialvarez | Sebastian Alvarez | CheloRiveros | Marcelo Riveros |
+| **B24 03-E/F** | SebaCardenas | Sebastian Cardenas | entamburini | Enzo Tamburini |
+| **B24 03-G/H** | frvalenzuela | Felipe Valenzuela | rslopez | Rodrigo Lopez |
+| **B24 04-A/B** | svrivera | Sebastian Rivera | Nebula2028 | Patricio Salgado |
+| **B24 04-C/D** | nivek0o0 | Kevin Johnson | Patoulloa | Patricio Ulloa |
+| **B24 04-E/F** | mrafaeli | Milan Rafaeli | kpribbeck | Klaus Ribbeck |
+| **B24 04-G/H** | lfbesa | Luis Besa | neberrios | Nicolas Berrios |
+| **B24 05-A/B** | hanavarrete | Hugo Navarrete | NachoCasta | Ignacio Castaã‘Eda |
+| **B24 05-C/D** | PaulaSalvo | Paula Salvo | sschwarzenberg | Sofia Schwarzenberg |
+| **B24 05-E/F** | sormazabal | Sofia Ormazabal | Snorlax8 | Cindy Tarud |
+| **B24 05-G/H** | jmsilva8 | Jose Silva | jisilvamc | Juan Silva |
+| **B24 06-A/B** | Kitaps | Patrick Liedtke | fvandeputte | Felipe Vandeputte |
+| **B24 06-C/D** | cpavez3 | Cristobal Pavez | Bnnunez | Benjamin Nuã‘Ez |
+| **B24 06-E/F** | Mhornig | Matias Hornig | mvial | Manuel Vial |
+| **B24 06-G/H** | vigazali | Vicente Gazali | pmiquelv | Pedro Miquel |
+| **B24 07-A/B** | tcgarrido | Tanya Garrido | cjgazali | Cristobal Gazali |
+| **B24 07-C/D** | JaimeGo | Jaime Gonzalez | Nicolaides21 | Javiera Gonzalez |
+| **B24 07-E/F** | PhilipBarr | Philip Barr | fleon23 | Felipe Leon |
+| **Javier Pinto 01-A** | lukasquense | Lukas Quense |  |   |
+| **Javier Pinto 01-B/C** | kcsss | Matias Caces | mcorreaiz | Matias Correa |
+| **Javier Pinto 01-D/E** | Tyrell-Wellick | Luis Ampuero | rmsolari | Renzo Solari |
+| **Javier Pinto 01-F/G** | Mnfriedl | Maximiliano Friedl | lefischer | Laura Fischer |
+| **Javier Pinto 02-A/B** | fr0k | Francisco Arenas | gabrielpinkman | Gabriel Vargas |
+| **Javier Pinto 02-E/F** | FranciscoLarach | Francisco Larach | vjbreton | Vicente Breton |
+| **Javier Pinto 03-A/B** | Pyralspite | Natalia Barra | NicolasAguirre | Nicolas Aguirre |
+| **Javier Pinto 03-E/F** | jjnestler | Juan Nestler | fcgfaura | Fernanda Garcia |
+| **Javier Pinto 04-A/B** | Sgvonbergen | Sebasthian Von Bergen | martinalvarado4 | Martin Alvarado |
+| **Javier Pinto 04-E/F** | jbsaeza | Joaquin Saez | Diiru | Diego Iruretagoyena |
+| **Javier Pinto 05-A/B** | TomasFuenzalida | Jose Fuenzalida | regarin | Rafael Garin |
+| **Javier Pinto 05-E/F** | iqacevedo | Ignacio Acevedo | isidoravs | Isidora Vizcaya |
+| **Javier Pinto 06-A/B** | asimonv | Andre Simon | jatrijori | Javiera Jorquera |
+| **Javier Pinto 06-E/F** | laurateuber | Laura Teuber | jaluco | Jose Luco |
+| **Default** | narierao | Nicolas Riera | elliot-anderson | Omar Bravo |
+| **Javier Pinto 06-A/B** | chapito96 | Santiago Torres | Fhmartinez | Francis Martinez |
