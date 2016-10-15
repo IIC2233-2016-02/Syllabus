@@ -27,8 +27,8 @@ class Building(Entity):
 
 class Temple(Building):
 
-    def __init__(self, god, pos=(0, 0), size=(100, 150)):
+    def __init__(self, god, pos=(0, 0), size=(100, 150), hp=100):
         self.god = god
 
-        super().__init__("templo_" + god, pos=pos, size=size)
+        super().__init__("templo_" + god, pos=pos, size=size, hp=hp)
 
