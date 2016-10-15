@@ -4,10 +4,10 @@ from .utils import get_asset_path
 
 class Building(Entity):
 
-    def __init__(self, kind, pos=(0, 0), size=(100, 150)):
+    def __init__(self, kind, pos=(0, 0), size=(100, 150), hp=100):
         self.k = kind
         self.__in_construction = False
-        super().__init__(["buildings", self.k + ".png"], size=size, pos=pos)
+        super().__init__(["buildings", self.k + ".png"], size=size, pos=pos, hp=hp)
 
     @property
     def in_construction(self):

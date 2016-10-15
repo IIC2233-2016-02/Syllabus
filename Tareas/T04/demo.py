@@ -9,7 +9,8 @@ class Sim:
 
     def __init__(self):
         self.unit = Skull("warrior", (20, 30),hp=300, size=(100, 100))
-        self.building = Building("barracks", pos=(300, 300))
+        self.building = Building("barracks", pos=(300, 300), hp=400)
+        self.building.health = 300
         self.temple = Temple("pezoa", pos=(700, 500),size=(200, 150))
         self.building.in_construction = True
 
@@ -25,8 +26,10 @@ class Sim:
             self.unit.cord_y += 0.5
             self.unit.angle += 1
             self.unit.health -= 1
+
         else:
             gui.set_objective("Hernán ha muerto :(")
+            self.unit.show()
 
         self.gold += 1
         gui.set_gold_t1(self.gold)
