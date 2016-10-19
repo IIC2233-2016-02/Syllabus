@@ -13,7 +13,7 @@ not_enough_philosophers = '¡Necesitamos más filósofos!'
 
 class Philosopher(threading.Thread):
     # Mensajes:
-    eat = '¡{0.name} está comiendo de un rico plato de Spaghetti!'
+    eat_message = '¡{0.name} está comiendo de un rico plato de Spaghetti!'
     fork_acquired = '¡{0.name} ha adquirido el tenedor {1}!'
     fork_released = '¡{0.name} ha liberado el tenedor {1}!'
 
@@ -25,7 +25,7 @@ class Philosopher(threading.Thread):
 
     def eat(self):
         time.sleep(EATING_TIME)  # Come durante <EATING_TIME> segundo(s).
-        print(Philosopher.eat.format(self))
+        print(Philosopher.eat_message.format(self))
 
     def run(self):
         while True:
