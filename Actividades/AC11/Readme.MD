@@ -65,6 +65,7 @@ La asistencia aparecerÃ¡ en [Asistencia.tsv](Asistencia.tsv). **Recuerda revis
 | **Javier Pinto 01-C/D** | FranciscoLarach | Francisco Larach | lukasquense | Lukas Quense |
 | **Javier Pinto 01-E/F** | asimonv | Andre Simon | fr0k | Francisco Arenas |
 | **Javier Pinto 02-A/B** | iqacevedo | Ignacio Acevedo | vjbreton | Vicente Breton |
+| **Javier Pinto 02-C/D** | laurateuber | Laura Teuber | Pyralspite | Natalia Barra |
 | **Javier Pinto 02-E/F** | chapito96 | Santiago Torres | kcsss | Matias Caces |
 | **Javier Pinto 03-A/B** | Mnfriedl | Maximiliano Friedl | jbsaeza | Joaquin Saez |
 | **Javier Pinto 03-E/F** | jjnestler | Juan Nestler | Fhmartinez | Francis Martinez |
@@ -74,6 +75,5 @@ La asistencia aparecerÃ¡ en [Asistencia.tsv](Asistencia.tsv). **Recuerda revis
 | **Javier Pinto 05-E/F** | Diiru | Diego Iruretagoyena | rmsolari | Renzo Solari |
 | **Javier Pinto 06-A/B** | mcorreaiz | Matias Correa | lefischer | Laura Fischer |
 | **Javier Pinto 06-E/F** | Sgvonbergen | Sebasthian Von Bergen | jatrijori | Javiera Jorquera |
-| **Default** | laurateuber | Laura Teuber | Pyralspite | Natalia Barra |
 | **Javier Pinto 06-A/B** | isidoravs | Isidora Vizcaya | martinalvarado4 | Martin Alvarado |
 | **Javier Pinto 06-C/D** | fcgfaura | Fernanda Garcia | jaluco | Jose Luco |
