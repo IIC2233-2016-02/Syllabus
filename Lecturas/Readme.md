@@ -18,7 +18,7 @@
 - [Issue del semestre pasado](https://github.com/IIC2233-2016-1/syllabus/issues/481): para entender más sobre tipos inmutables y modelación
 
 
-## Consola y Paths
+## Lectura 3: Consola y Paths
 
 - [Codecademy: Learn the Command Line](https://www.codecademy.com/learn/learn-the-command-line): Es un tutorial de cómo utilizar una consola Unix (OS X, Linux). El conocimiento adquirido acá es muy traspasable a Windows. Hacer sólo la parte gratuita.
 - [Linuxnix: Paths](http://www.linuxnix.com/abslute-path-vs-relative-path-in-linuxunix/): Acá se explica que son los paths, enfocado a sistemas Unix.
