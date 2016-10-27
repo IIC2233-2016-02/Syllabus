@@ -65,6 +65,7 @@ La asistencia aparecerÃ¡ en [Asistencia.tsv](Asistencia.tsv). **Recuerda revis
 | **Javier Pinto 01-C/D** | Tyrell-Wellick | Luis Ampuero | fringlesinthestreet | Benjamin Carcamo |
 | **Javier Pinto 01-E/F** | Mnfriedl | Maximiliano Friedl | TomasFuenzalida | Jose Fuenzalida |
 | **Javier Pinto 02-A/B** | Pyralspite | Natalia Barra | laurateuber | Laura Teuber |
+| **Javier Pinto 02-C/D** | NicolasAguirre | Nicolas Aguirre | martinalvarado4 | Martin Alvarado |
 | **Javier Pinto 02-E/F** | jatrijori | Javiera Jorquera | asimonv | Andre Simon |
 | **Javier Pinto 03-A/B** | lefischer | Laura Fischer | vjbreton | Vicente Breton |
 | **Javier Pinto 03-E/F** | narierao | Nicolas Riera | jaluco | Jose Luco |
@@ -74,6 +75,5 @@ La asistencia aparecerÃ¡ en [Asistencia.tsv](Asistencia.tsv). **Recuerda revis
 | **Javier Pinto 05-E/F** | Sgvonbergen | Sebasthian Von Bergen | kcsss | Matias Caces |
 | **Javier Pinto 06-A/B** | Diiru | Diego Iruretagoyena | iqacevedo | Ignacio Acevedo |
 | **Javier Pinto 06-E/F** | lukasquense | Lukas Quense | gabrielpinkman | Gabriel Vargas |
-| **Default** | NicolasAguirre | Nicolas Aguirre | martinalvarado4 | Martin Alvarado |
 | **Javier Pinto 06-A/B** | jbsaeza | Joaquin Saez | regarin | Rafael Garin |
 | **Javier Pinto 06-C/D** | rmsolari | Renzo Solari | isidoravs | Isidora Vizcaya |
