@@ -73,6 +73,6 @@ La asistencia aparecerÃ¡ en [Asistencia.tsv](Asistencia.tsv). **Recuerda revis
 | **Javier Pinto 05-E/F** | jatrijori | Javiera Jorquera | fr0k | Francisco Arenas |
 | **Javier Pinto 06-A/B** | TomasFuenzalida | Jose Fuenzalida | lefischer | Laura Fischer |
 | **Javier Pinto 06-E/F** | asimonv | Andre Simon | jaluco | Jose Luco |
-| **Default** | iqacevedo | Ignacio Acevedo | jbsaeza | Joaquin Saez |
+| **Javier Pinto 02-C/D** | iqacevedo | Ignacio Acevedo | jbsaeza | Joaquin Saez |
 | **Javier Pinto 06-A/B** | regarin | Rafael Garin | kcsss | Matias Caces |
 | **Javier Pinto 06-C/D** | Sgvonbergen | Sebasthian Von Bergen | NicolasAguirre | Nicolas Aguirre |
