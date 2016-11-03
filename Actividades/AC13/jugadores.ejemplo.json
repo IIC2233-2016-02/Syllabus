@@ -1,0 +1,22 @@
+{
+  "920":{
+    "faltas": 0,
+    "amarillas": 7,
+    "goles": 109,
+    "equipo": "Galeana",
+    "asistencias": 16,
+    "id": "920",
+    "nombre": "Millar",
+    "rojas": 9
+  },
+  "318": {
+      "faltas": 10,
+      "amarillas": 2,
+      "goles": 44,
+      "equipo": "FC Kitzb\u00c3\u00bchel",
+      "asistencias": 63,
+      "id": "318",
+      "nombre": "Roman B\u00c3\u00bcrki",
+      "rojas": 9
+  }
+}
