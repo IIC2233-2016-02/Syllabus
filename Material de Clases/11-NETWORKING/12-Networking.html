@@ -11951,7 +11951,7 @@ div#notebook {
     <span class="c1"># (codificado en bytes) pidiendo el contenido de index.html</span>
     <span class="c1"># Recibimos la respuesta, el argumento indica el tamaño del bufer en bytes y </span>
     <span class="c1"># finalmente aquí imprimimos los datos que recibimos después de codificarlos</span>
-    <span class="n">s</span><span class="o">.</span><span class="n">connect</span><span class="p">((</span><span class="s2">&quot;www.python.org&quot;</span><span class="p">,</span><span class="mi">80</span><span class="p">))</span>        
+    <span class="n">s</span><span class="o">.</span><span class="n">connect</span><span class="p">((</span><span class="s2">&quot;www.python.org&quot;</span><span class="p">,</span> <span class="mi">80</span><span class="p">))</span>        
     <span class="n">s</span><span class="o">.</span><span class="n">send</span><span class="p">(</span><span class="s2">&quot;GET /index.html HTTP/1.0</span><span class="se">\n\n\n</span><span class="s2">&quot;</span><span class="o">.</span><span class="n">encode</span><span class="p">(</span><span class="s1">&#39;ascii&#39;</span><span class="p">))</span>  
     <span class="n">data</span> <span class="o">=</span> <span class="n">s</span><span class="o">.</span><span class="n">recv</span><span class="p">(</span><span class="mi">1024</span><span class="p">)</span>                    
     <span class="nb">print</span><span class="p">(</span><span class="n">data</span><span class="o">.</span><span class="n">decode</span><span class="p">(</span><span class="s1">&#39;ascii&#39;</span><span class="p">))</span>
@@ -12194,7 +12194,7 @@ Fastly error: unknown domain: . Please check that this domain has been added to 
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h3 id="Env&#237;o-de-datos-json">Env&#237;o de datos json<a class="anchor-link" href="#Env&#237;o-de-datos-json">&#182;</a></h3><p>En el siguiente ejemplo veremos como generar un servidor que reciba datos y los envíe de vuelta al cliente, luego haremos un cliente que envíe datos json y los imprima una vez que el servidor los envíe de vuelta. Haz la prueba con dos computadores, en uno ejecuta el código de la siguiente celda con la definición del servidor y en el otro la celda subsiguiente con la definición del cliente que envía los datos json.</p>
+<h3 id="Env&#237;o-de-datos-json">Env&#237;o de datos json<a class="anchor-link" href="#Env&#237;o-de-datos-json">&#182;</a></h3><p>En el siguiente ejemplo veremos como generar un servidor que reciba datos y los envíe de vuelta al cliente, luego haremos un cliente que envíe datos json y los imprima una vez que el servidor los envíe de vuelta. <strong>Haz la prueba con dos computadores, en uno ejecuta el código de la siguiente celda con la definición del servidor y en el otro la celda subsiguiente con la definición del cliente que envía los datos json</strong>.</p>
 
 </div>
 </div>
@@ -12261,7 +12261,7 @@ Fastly error: unknown domain: . Please check that this domain has been added to 
     <span class="n">sys</span><span class="o">.</span><span class="n">exit</span><span class="p">()</span>
 
 <span class="c1"># Debemos enviar bytes</span>
-<span class="n">s</span><span class="o">.</span><span class="n">sendall</span><span class="p">(</span><span class="nb">bytes</span><span class="p">(</span><span class="n">message</span><span class="p">,</span> <span class="s2">&quot;UTF-8&quot;</span><span class="p">))</span>
+<span class="n">s</span><span class="o">.</span><span class="n">sendall</span><span class="p">(</span><span class="n">message</span><span class="o">.</span><span class="n">encode</span><span class="p">(</span><span class="s2">&quot;UTF-8&quot;</span><span class="p">))</span>
 
 <span class="c1"># Decodificamos los bytes y luego los de-serializamos con json</span>
 <span class="n">data</span> <span class="o">=</span> <span class="n">json</span><span class="o">.</span><span class="n">loads</span><span class="p">(</span><span class="n">s</span><span class="o">.</span><span class="n">recv</span><span class="p">(</span><span class="n">MAX_SIZE</span><span class="p">)</span><span class="o">.</span><span class="n">decode</span><span class="p">(</span><span class="s1">&#39;UTF-8&#39;</span><span class="p">))</span>
@@ -12310,9 +12310,9 @@ Fastly error: unknown domain: . Please check that this domain has been added to 
 <span class="n">message</span> <span class="o">=</span> <span class="n">pickle</span><span class="o">.</span><span class="n">dumps</span><span class="p">(</span><span class="n">p1</span><span class="p">)</span>
 
 <span class="n">s</span> <span class="o">=</span> <span class="n">socket</span><span class="o">.</span><span class="n">socket</span><span class="p">(</span><span class="n">socket</span><span class="o">.</span><span class="n">AF_INET</span><span class="p">,</span> <span class="n">socket</span><span class="o">.</span><span class="n">SOCK_STREAM</span><span class="p">)</span>
+
 <span class="k">try</span><span class="p">:</span>
     <span class="n">s</span><span class="o">.</span><span class="n">connect</span><span class="p">((</span><span class="n">server_host</span><span class="p">,</span> <span class="n">port</span><span class="p">))</span>
-
 <span class="k">except</span> <span class="n">socket</span><span class="o">.</span><span class="n">gaierror</span> <span class="k">as</span> <span class="n">err</span><span class="p">:</span>
     <span class="nb">print</span><span class="p">(</span><span class="s2">&quot;Error: No pudo conectarse </span><span class="si">{}</span><span class="s2">&quot;</span><span class="o">.</span><span class="n">format</span><span class="p">(</span><span class="n">err</span><span class="p">))</span>
     <span class="n">sys</span><span class="o">.</span><span class="n">exit</span><span class="p">()</span>
@@ -12333,7 +12333,7 @@ Fastly error: unknown domain: . Please check that this domain has been added to 
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>También podríamos modificar el código del servidor para que haga alguna acción requerida con los datos que recibe y envíe el resultado de esta acción de vuelta. Por ejemplo, verificar en el servidor los datos de un cliente para iniciar sesión. Recomendamos fuertemente conectar dos computadores y probar enviando hacia y desde ambas partes, de tal forma de familiarizarse lo más posible con los sockets y disfrutar de los beneficios que nos ofrece la red.</p>
+<p>También podríamos modificar el código del servidor para que haga alguna acción requerida con los datos que recibe y envíe el resultado de esta acción de vuelta. Por ejemplo, verificar en el servidor los datos de un cliente para iniciar sesión. <strong>Recomendamos fuertemente conectar dos computadores y probar enviando hacia y desde ambas partes</strong>, de tal forma de familiarizarse lo más posible con los sockets y disfrutar de los beneficios que nos ofrece la red.</p>
 
 </div>
 </div>
@@ -12349,7 +12349,7 @@ Fastly error: unknown domain: . Please check that this domain has been added to 
 <li>aceptar nuevos clientes; </li>
 <li>y, cada vez que se acepte un cliente, crear un thread nuevo que se ocupe de escuchar y enviar información al nuevo cliente conectado.</li>
 </ul>
-<p>Para crear un esquema de comunicación entre el cliente y el servidor que permita el intercambio de mensajes de un tamaño arbitrario deberemos modificar la cantidad de bytes que especificamos en el método <code>socket.recv()</code>. Hasta ahora le hemos pasadp como parámetro alguna potencia de 2 razonable que permite el intercambio de mensajes simples. La desventaha de este esquema es que siempre vamos a limitar el tamaño de los mensajes al parámetro que recibe <code>socket.recv()</code>, lo que para algunos casos, como por ejemplo el envío de archivos, es poco práctico.</p>
+<p>Para crear un esquema de comunicación entre el cliente y el servidor que permita el intercambio de mensajes de un tamaño arbitrario deberemos modificar la cantidad de bytes que especificamos en el método <code>socket.recv()</code>. Hasta ahora hemos usado como parámetro del método <code>recv()</code> algún valor arbitrario en potencia de 2 (1024, 2048) razonable que permite el intercambio de mensajes simples. La desventaha de este esquema es que siempre vamos a limitar el tamaño de los mensajes al parámetro que recibe <code>socket.recv()</code>, lo que para algunos casos, como por ejemplo el envío de archivos, es poco práctico.</p>
 <p>Un método simple para implementar el control de datos enviados consiste en que, antes de enviar cualquier mensaje a través del socket mediremos el largo del mensaje enviado, lo que retornará algun valor entero. Luego, calcularemos la representación en bytes de ese largo y adjuntaremos este valor al principio del mensaje enviado. Si usamos 4 bytes como encabezado de todos los mensajes para indicar el largo de éstos, podremos enviar mensajes de hasta 2^32 bytes (4 GB). Esta es una cantidad razonable para la mayoría de los casos.</p>
 <p>Definamos a continuación una clase <code>Client</code> donde ejemplificaremos las modificaciones mencionadas:</p>
 
@@ -12376,7 +12376,7 @@ Fastly error: unknown domain: . Please check that this domain has been added to 
         <span class="c1"># Inicializamos el socket principal del cliente</span>
         <span class="bp">self</span><span class="o">.</span><span class="n">host</span> <span class="o">=</span> <span class="n">host</span>
         <span class="bp">self</span><span class="o">.</span><span class="n">port</span> <span class="o">=</span> <span class="n">port</span>
-        <span class="bp">self</span><span class="o">.</span><span class="n">socket_cliente</span> <span class="o">=</span> <span class="n">socket</span><span class="o">.</span><span class="n">socket</span><span class="p">()</span>
+        <span class="bp">self</span><span class="o">.</span><span class="n">socket_cliente</span> <span class="o">=</span> <span class="n">socket</span><span class="o">.</span><span class="n">socket</span><span class="p">(</span><span class="n">socket</span><span class="o">.</span><span class="n">AF_INET</span><span class="p">,</span> <span class="n">socket</span><span class="o">.</span><span class="n">SOCK_STREAM</span><span class="p">)</span>
         
         <span class="k">try</span><span class="p">:</span>
             <span class="bp">self</span><span class="o">.</span><span class="n">connect_to_server</span><span class="p">()</span>
@@ -12418,10 +12418,7 @@ Fastly error: unknown domain: . Please check that this domain has been added to 
     <span class="k">def</span> <span class="nf">listen_thread</span><span class="p">(</span><span class="bp">self</span><span class="p">):</span>
         <span class="k">while</span> <span class="kc">True</span><span class="p">:</span>
             <span class="n">response_bytes_length</span> <span class="o">=</span> <span class="bp">self</span><span class="o">.</span><span class="n">socket_cliente</span><span class="o">.</span><span class="n">recv</span><span class="p">(</span><span class="mi">4</span><span class="p">)</span>
-            <span class="n">response_length</span> <span class="o">=</span> <span class="nb">int</span><span class="o">.</span><span class="n">from_bytes</span><span class="p">(</span>
-                <span class="n">response_bytes_length</span><span class="p">,</span>
-                <span class="n">byteorder</span><span class="o">=</span><span class="s2">&quot;big&quot;</span>
-            <span class="p">)</span>
+            <span class="n">response_length</span> <span class="o">=</span> <span class="nb">int</span><span class="o">.</span><span class="n">from_bytes</span><span class="p">(</span><span class="n">response_bytes_length</span><span class="p">,</span> <span class="n">byteorder</span><span class="o">=</span><span class="s2">&quot;big&quot;</span><span class="p">)</span>
             <span class="n">response</span> <span class="o">=</span> <span class="n">b</span><span class="s2">&quot;&quot;</span>
             
             <span class="c1"># Recibimos datos hasta que alcancemos la totalidad de los datos </span>
@@ -12433,7 +12430,7 @@ Fastly error: unknown domain: . Please check that this domain has been added to 
 
 
     <span class="c1"># Usaremos este método para capturar input del usuario. Lee mensajes desde </span>
-    <span class="c1"># el terminal y después de los pasa a `self.send()`.</span>
+    <span class="c1"># el terminal y después se los pasa a `self.send()`.</span>
     <span class="k">def</span> <span class="nf">repl</span><span class="p">(</span><span class="bp">self</span><span class="p">):</span>
         <span class="nb">print</span><span class="p">(</span><span class="s2">&quot;------ Consola ------</span><span class="se">\n</span><span class="s2">&gt;&gt;&gt; &quot;</span><span class="p">,</span> <span class="n">end</span><span class="o">=</span><span class="s2">&quot;&quot;</span><span class="p">)</span>
         
@@ -12480,7 +12477,7 @@ Fastly error: unknown domain: . Please check that this domain has been added to 
         <span class="c1"># Inicializar socket principal del servidor.</span>
         <span class="bp">self</span><span class="o">.</span><span class="n">host</span> <span class="o">=</span> <span class="n">host</span>
         <span class="bp">self</span><span class="o">.</span><span class="n">port</span> <span class="o">=</span> <span class="n">port</span>
-        <span class="bp">self</span><span class="o">.</span><span class="n">socket_servidor</span> <span class="o">=</span> <span class="n">socket</span><span class="o">.</span><span class="n">socket</span><span class="p">()</span>
+        <span class="bp">self</span><span class="o">.</span><span class="n">socket_servidor</span> <span class="o">=</span> <span class="n">socket</span><span class="o">.</span><span class="n">socket</span><span class="p">(</span><span class="n">socket</span><span class="o">.</span><span class="n">AF_INET</span><span class="p">,</span> <span class="n">socket</span><span class="o">.</span><span class="n">SOCK_STREAM</span><span class="p">)</span>
         <span class="bp">self</span><span class="o">.</span><span class="n">bind_and_listen</span><span class="p">()</span>
         <span class="bp">self</span><span class="o">.</span><span class="n">accept_connections</span><span class="p">()</span>
 
@@ -12535,9 +12532,7 @@ Fastly error: unknown domain: . Please check that this domain has been added to 
 
         <span class="k">while</span> <span class="kc">True</span><span class="p">:</span>
             <span class="n">response_bytes_length</span> <span class="o">=</span> <span class="n">client_socket</span><span class="o">.</span><span class="n">recv</span><span class="p">(</span><span class="mi">4</span><span class="p">)</span>
-            <span class="n">response_length</span> <span class="o">=</span> <span class="nb">int</span><span class="o">.</span><span class="n">from_bytes</span><span class="p">(</span>
-                <span class="n">response_bytes_length</span><span class="p">,</span> <span class="n">byteorder</span><span class="o">=</span><span class="s2">&quot;big&quot;</span>
-            <span class="p">)</span>
+            <span class="n">response_length</span> <span class="o">=</span> <span class="nb">int</span><span class="o">.</span><span class="n">from_bytes</span><span class="p">(</span><span class="n">response_bytes_length</span><span class="p">,</span> <span class="n">byteorder</span><span class="o">=</span><span class="s2">&quot;big&quot;</span><span class="p">)</span>
             <span class="n">response</span> <span class="o">=</span> <span class="n">b</span><span class="s2">&quot;&quot;</span>
             
             <span class="k">while</span> <span class="nb">len</span><span class="p">(</span><span class="n">response</span><span class="p">)</span> <span class="o">&lt;</span> <span class="n">response_length</span><span class="p">:</span>
@@ -12553,6 +12548,7 @@ Fastly error: unknown domain: . Please check that this domain has been added to 
                 <span class="n">response</span> <span class="o">=</span> <span class="bp">self</span><span class="o">.</span><span class="n">handle_command</span><span class="p">(</span><span class="n">received</span><span class="p">,</span> <span class="n">client_socket</span><span class="p">)</span>
                 <span class="bp">self</span><span class="o">.</span><span class="n">send</span><span class="p">(</span><span class="n">response</span><span class="p">,</span> <span class="n">client_socket</span><span class="p">)</span>
 
+                
 <span class="k">if</span> <span class="n">__name__</span> <span class="o">==</span> <span class="s2">&quot;__main__&quot;</span><span class="p">:</span>
 
     <span class="n">port</span> <span class="o">=</span> <span class="mi">8080</span>
