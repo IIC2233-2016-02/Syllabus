@@ -64,6 +64,7 @@ La asistencia aparecerÃ¡ en [Asistencia.tsv](Asistencia.tsv). **Recuerda revis
 | **Javier Pinto 01-D/E** | TomasFuenzalida | Jose Fuenzalida | jatrijori | Javiera Jorquera |
 | **Javier Pinto 01-F/G** | regarin | Rafael Garin | rmsolari | Renzo Solari |
 | **Javier Pinto 02-A/B** | Sgvonbergen | Sebasthian Von Bergen | jjnestler | Juan Nestler |
+| **Javier Pinto 02-C/D** | fr0k | Francisco Arenas | laurateuber | Laura Teuber |
 | **Javier Pinto 02-E/F** | lukasquense | Lukas Quense | gabrielpinkman | Gabriel Vargas |
 | **Javier Pinto 03-A/B** | NicolasAguirre | Nicolas Aguirre | FranciscoLarach | Francisco Larach |
 | **Javier Pinto 03-E/F** | Pyralspite | Natalia Barra | elliot-anderson | Omar Bravo |
@@ -73,5 +74,4 @@ La asistencia aparecerÃ¡ en [Asistencia.tsv](Asistencia.tsv). **Recuerda revis
 | **Javier Pinto 05-E/F** | asimonv | Andre Simon | jbsaeza | Joaquin Saez |
 | **Javier Pinto 06-A/B** | jaluco | Jose Luco | fringlesinthestreet | Benjamin Carcamo |
 | **Javier Pinto 06-E/F** | mcorreaiz | Matias Correa | Diiru | Diego Iruretagoyena |
-| **Default** | fr0k | Francisco Arenas | laurateuber | Laura Teuber |
 | **Javier Pinto 06-A/B** | Fhmartinez | Francis Martinez | Tyrell-Wellick | Luis Ampuero |
