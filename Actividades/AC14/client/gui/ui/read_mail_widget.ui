@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Form</class>
+ <widget class="QWidget" name="Form">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>668</width>
+    <height>449</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Mail UCÉ - Leer Correo</string>
+  </property>
+  <property name="windowOpacity">
+   <double>1.000000000000000</double>
+  </property>
+  <widget class="Line" name="line">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>40</y>
+     <width>631</width>
+     <height>20</height>
+    </rect>
+   </property>
+   <property name="orientation">
+    <enum>Qt::Horizontal</enum>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>10</y>
+     <width>381</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>20</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>Mail UCÉ</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_2">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>95</y>
+     <width>56</width>
+     <height>13</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Para:</string>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="recipientsLineEdit">
+   <property name="geometry">
+    <rect>
+     <x>70</x>
+     <y>90</y>
+     <width>581</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QTextEdit" name="bodyTextEdit">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>150</y>
+     <width>631</width>
+     <height>251</height>
+    </rect>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_3">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>125</y>
+     <width>56</width>
+     <height>13</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Asunto:</string>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="subjectLineEdit">
+   <property name="geometry">
+    <rect>
+     <x>70</x>
+     <y>120</y>
+     <width>581</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="backButton">
+   <property name="geometry">
+    <rect>
+     <x>550</x>
+     <y>410</y>
+     <width>110</width>
+     <height>32</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Volver</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_4">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>70</y>
+     <width>56</width>
+     <height>13</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>De:</string>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="fromLineEdit">
+   <property name="geometry">
+    <rect>
+     <x>70</x>
+     <y>65</y>
+     <width>581</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

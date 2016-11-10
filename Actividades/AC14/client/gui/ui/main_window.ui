@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>800</width>
+    <height>600</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Mail UCÉ</string>
+  </property>
+  <property name="windowOpacity">
+   <double>1.000000000000000</double>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <widget class="QLabel" name="label">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>20</y>
+      <width>381</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>20</pointsize>
+     </font>
+    </property>
+    <property name="text">
+     <string>Mail UCÉ</string>
+    </property>
+   </widget>
+   <widget class="Line" name="line">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>60</y>
+      <width>781</width>
+      <height>16</height>
+     </rect>
+    </property>
+    <property name="orientation">
+     <enum>Qt::Horizontal</enum>
+    </property>
+   </widget>
+   <widget class="QTableWidget" name="mailTable">
+    <property name="geometry">
+     <rect>
+      <x>170</x>
+      <y>100</y>
+      <width>621</width>
+      <height>471</height>
+     </rect>
+    </property>
+    <property name="editTriggers">
+     <set>QAbstractItemView::NoEditTriggers</set>
+    </property>
+    <property name="alternatingRowColors">
+     <bool>true</bool>
+    </property>
+    <property name="selectionMode">
+     <enum>QAbstractItemView::SingleSelection</enum>
+    </property>
+    <property name="selectionBehavior">
+     <enum>QAbstractItemView::SelectRows</enum>
+    </property>
+    <property name="rowCount">
+     <number>0</number>
+    </property>
+    <property name="columnCount">
+     <number>3</number>
+    </property>
+    <attribute name="horizontalHeaderStretchLastSection">
+     <bool>true</bool>
+    </attribute>
+    <column>
+     <property name="text">
+      <string>De</string>
+     </property>
+     <property name="font">
+      <font>
+       <weight>75</weight>
+       <bold>true</bold>
+      </font>
+     </property>
+    </column>
+    <column>
+     <property name="text">
+      <string>Para</string>
+     </property>
+     <property name="font">
+      <font>
+       <weight>75</weight>
+       <bold>true</bold>
+      </font>
+     </property>
+    </column>
+    <column>
+     <property name="text">
+      <string>Asunto</string>
+     </property>
+     <property name="font">
+      <font>
+       <weight>75</weight>
+       <bold>true</bold>
+      </font>
+     </property>
+    </column>
+   </widget>
+   <widget class="QLabel" name="boxLabel">
+    <property name="geometry">
+     <rect>
+      <x>170</x>
+      <y>80</y>
+      <width>161</width>
+      <height>16</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>16</pointsize>
+     </font>
+    </property>
+    <property name="text">
+     <string>Buzón de entrada</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="signOutButton">
+    <property name="geometry">
+     <rect>
+      <x>680</x>
+      <y>30</y>
+      <width>111</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Desconectarse</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="connectedLabel">
+    <property name="geometry">
+     <rect>
+      <x>295</x>
+      <y>10</y>
+      <width>491</width>
+      <height>20</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Conectado como rector@uc.cl</string>
+    </property>
+    <property name="alignment">
+     <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="inboxButton">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>110</y>
+      <width>141</width>
+      <height>32</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Buzón de entrada</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="outboxButton">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>140</y>
+      <width>141</width>
+      <height>32</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Buzón de salida</string>
+    </property>
+   </widget>
+   <widget class="Line" name="line_2">
+    <property name="geometry">
+     <rect>
+      <x>150</x>
+      <y>70</y>
+      <width>20</width>
+      <height>501</height>
+     </rect>
+    </property>
+    <property name="orientation">
+     <enum>Qt::Vertical</enum>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="composeButton">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>80</y>
+      <width>141</width>
+      <height>32</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Redactar</string>
+    </property>
+   </widget>
+  </widget>
+  <widget class="QStatusBar" name="statusbar"/>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
